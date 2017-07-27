@@ -1,0 +1,4 @@
+-fix castform sprite
+-fix spinda sprite
+-fix unown sprites, probably
+-everything else
